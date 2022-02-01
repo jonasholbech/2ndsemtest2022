@@ -4,7 +4,6 @@ main > div {
   border: 1px solid #000;
   border-radius: 50%;
   position: absolute;
-  transition: all 1s ease-out;
 }
 main {
   position: relative;
