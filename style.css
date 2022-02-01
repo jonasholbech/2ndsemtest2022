@@ -3,4 +3,8 @@ main > div {
   height: 100px;
   border: 1px solid #000;
   border-radius: 50%;
+  position: absolute;
+}
+main {
+  position: relative;
 }
